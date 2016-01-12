@@ -4,3 +4,4 @@ index.html file: for getting input from the user.
 Login.java file: a servlet class for processing the response. If password is servet, it will forward the request to the welcome servlet.
 WelcomeServlet.java file: a servlet class for displaying the welcome message.
 web.xml file: a deployment descriptor file that contains the information about the servlet.
+Also this application is improved by using NetBeans IDE.
